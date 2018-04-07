@@ -9,7 +9,7 @@ OpenCV : Đọc vào tập tin hình ảnh. <br>
 wave   : Đọc vào tập tin âm thanh có định dạng .wav <br>
 docopt : Thư viện cho phép truyền các tham số đầu vào.
 ```bash
-pip install -r requirements.txt
+pip install docopt opencv-python wave
 ```
 Usage
 -----
