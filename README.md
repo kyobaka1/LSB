@@ -4,9 +4,9 @@ Mục đích bài tập: Triển khai kĩ thuật dấu tin LSB vào tập tin h
 
 Installation
 ------------
-Tool này yêu cầu cài đặt một số thư viện: \n
-OpenCV : Đọc vào tập tin hình ảnh. \n
-wave   : Đọc vào tập tin âm thanh có định dạng .wav\n
+Tool này yêu cầu cài đặt một số thư viện: <br>
+OpenCV : Đọc vào tập tin hình ảnh. <br>
+wave   : Đọc vào tập tin âm thanh có định dạng .wav <br>
 docopt : Thư viện cho phép truyền các tham số đầu vào.
 ```bash
 pip install -r requirements.txt
